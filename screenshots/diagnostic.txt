@@ -1,0 +1,31 @@
+--------- beginning of main
+--------- beginning of system
+I/TAG     ( 1933): onCreate event fired
+I/TAG     ( 1933): onStart event fired
+I/TAG     ( 1933): onResume event fired
+I/TAG     ( 1933): onPasuse event fired
+I/TAG     ( 1933): onStop event fired
+I/TAG     ( 1933): onDestroy event fired
+E/TAG     ( 1933): We’re going down, Captain!
+I/TAG     ( 1933): onCreate event fired
+I/TAG     ( 1933): onStart event fired
+I/TAG     ( 1933): onResume event fired
+I/TAG     ( 1933): onPasuse event fired
+I/TAG     ( 1933): onStop event fired
+I/TAG     ( 1933): onRestart event fired
+I/TAG     ( 1933): onStart event fired
+I/TAG     ( 1933): onResume event fired
+I/TAG     ( 1933): onPasuse event fired
+I/TAG     ( 1933): onStop event fired
+I/TAG     ( 1933): onRestart event fired
+I/TAG     ( 1933): onStart event fired
+I/TAG     ( 1933): onResume event fired
+I/TAG     ( 1933): onPasuse event fired
+I/TAG     ( 1933): onStop event fired
+I/TAG     ( 1933): onRestart event fired
+I/TAG     ( 1933): onStart event fired
+I/TAG     ( 1933): onResume event fired
+I/TAG     ( 1933): onPasuse event fired
+I/TAG     ( 1933): onStop event fired
+I/TAG     ( 1933): onDestroy event fired
+E/TAG     ( 1933): We’re going down, Captain!
